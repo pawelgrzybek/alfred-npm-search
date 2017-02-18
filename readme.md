@@ -8,7 +8,7 @@ This workflow is written in Node as JavaScript is the only language that I know 
 
 ## Download
 
-- [Download Alfred npm search from Packal](http://www.packal.org/workflow/npm-search) - brilliant user-created repository for workflows.
+- [Download Alfred npm search from Packal](http://www.packal.org/workflow/alfred-npm-search) - brilliant user-created repository for workflows.
 
 ## How to use
 
