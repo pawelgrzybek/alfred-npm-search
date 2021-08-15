@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.pawelgrzybek.npm</string>
+	<string>com.alfredapp.alfred-npm-search</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
